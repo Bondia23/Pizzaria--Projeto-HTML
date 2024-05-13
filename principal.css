@@ -1,0 +1,106 @@
+html {
+	scroll-behavior: smooth;
+}
+body{
+background-image: url(https://image.freepik.com/fotos-gratis/pizza-de-pepperoni-saboroso-em-um-fundo-concreto-preto_79782-103.jpg);
+background-size: cover;
+background-repeat: no-repeat;}
+header{
+    background-color: white;
+   
+    
+}
+.bondia{
+display: flex;
+justify-content: center;
+}
+a:hover 
+{
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+   
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin-left: 3vw;
+    
+}
+img{
+display: flex;
+}
+div{
+    color: pink;
+}
+main{
+    display: flex;
+   justify-content: center;
+    font-size: xx-large;
+    color: white;
+   
+}
+.dois,h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+.dois,h2,p{
+    color: white;
+    display: flex;
+    justify-content: center;
+   
+}
+.segunda_sec{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 100px;
+}
+table{
+   background-color: white;
+}
+.calabresa{
+    height: 100px;
+    width: 100%;
+  
+}
+.portuguesa{
+    height: 100px;
+    width: 100%;
+}
+.frango{
+    height: 130px;
+    width: 100%;
+}
+.divfot{
+    color: black;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 40px;
+    background-color: black;
+}
+.footerr{
+    display: flex;
+    justify-content: cente;
+    color: white;
+    font-size: 30px;
+background-color:black;
+   height: 100%;
+}
+.foooter{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    height: 3px;
+}
+.prec{
+    color: white;
+    font-size: large;
+}
